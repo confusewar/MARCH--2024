@@ -1,0 +1,16 @@
+CSS:
+table, th{
+    background-image:url(https://d2w00000md1qseat-dev-ed--c.develop.vf.force.com/resource/1711105363000/Calendar);
+    table-layout: fixed;
+    width: 100%;
+    border-color:3px rgb(0, 0, 0);
+    height: 60px;
+    text-align: center;
+}
+td{
+    table-layout: fixed;
+    width: 100%;
+    border-color:3px rgb(0, 0, 0);
+    height: 50px;
+    text-align: center;
+  }
